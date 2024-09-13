@@ -11,11 +11,11 @@ order: 4
 <img src="https://readme-typing-svg.herokuapp.com?lines=Building+scalable+microservices;cccrafting-intuitive+user+interfaces;Always+learning+and+growing&center=true&width=380&height=45">
 
 <p align="center">
-  <a href="mailto:vivektripathi9005@icloud.com"><img src="https://img.shields.io/badge/Email-vivektripathi9005%40icloud.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://vivektripaathi.github.io/"><img src="https://img.shields.io/badge/Portfolio-vivektripaathi.github.io-cyan?style=flat-square&logo=github"></a>
-  <a href="https://linkedin.com/in/vivek-tripathi1"><img src="https://img.shields.io/badge/LinkedIn-Vivek%20Tripathi-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/vivektripaathi"><img src="https://img.shields.io/badge/GitHub-vivektripaathi-lightgrey?style=flat-square&logo=github"></a>
-  <a href="https://twitter.com/vivektripaaathi"><img src="https://img.shields.io/badge/Twitter-vivektripaathi-purple?style=flat-square&logo=medium&logoColor=white"></a>
+  <a href="mailto:vivektripathi9005@icloud.com"><img src="https://img.shields.io/badge/Email-vivektripathi9005%40icloud.com-blue?style=flat-square&logo=gmail" alt ="e-mail"></a>
+  <a href="https://vivektripaathi.github.io/"><img src="https://img.shields.io/badge/Portfolio-vivektripaathi.github.io-cyan?style=flat-square&logo=github"  alt = "website"></a>
+  <a href="https://linkedin.com/in/vivek-tripathi1"><img src="https://img.shields.io/badge/LinkedIn-Vivek%20Tripathi-blue?style=flat-square&logo=linkedin" alt = "linkedin"></a>
+  <a href="https://github.com/vivektripaathi"><img src="https://img.shields.io/badge/GitHub-vivektripaathi-lightgrey?style=flat-square&logo=github" alt = "github"></a>
+  <a href="https://twitter.com/vivektripaaathi"><img src="https://img.shields.io/badge/Twitter-vivektripaathi-purple?style=flat-square&logo=medium&logoColor=white" alt = "twitter"></a>
 </p>
 
 ## 🚀 About Me
