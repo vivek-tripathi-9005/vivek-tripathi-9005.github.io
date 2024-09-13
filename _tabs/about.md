@@ -8,7 +8,7 @@ order: 4
 
 <h3 align="center">Full Stack Developer | Quick Learner</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Building+scalable+microservices;cccrafting-intuitive+user+interfaces;Always+learning+and+growing&center=true&width=380&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Building+scalable+microservices;cccrafting-intuitive+user+interfaces;Always+learning+and+growing&center=true&width=380&height=45" alt = "Dynamic text: Building scalable microservices, crafting intuitive user interfaces, Always learning and growing">
 
 <p align="center">
   <a href="mailto:vivektripathi9005@icloud.com"><img src="https://img.shields.io/badge/Email-vivektripathi9005%40icloud.com-blue?style=flat-square&logo=gmail" alt ="e-mail"></a>
