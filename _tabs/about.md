@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
 <h1 align="center">👨‍💻 Vivek Tripathi</h1>
@@ -26,27 +26,6 @@ A Software Developer with strong skills in back-end development, quick learner, 
 - 🌱 Always learning and exploring new technologies.
 - 💡 Passionate about building scalable micro-services.
 - 🛠️ Experienced in AI-driven development and third-party API integration.
-
-## 💼 Work Experience
-
-### Backend Developer at ONBO (10/2023 - Present)
-
-- Optimized backend services and databases, increasing performance by 35%.
-- Developed a new product for onboarding users.
-- Responsibilities included adding new features and resolving issues and bugs in a Django-based backend and a Node.js-based Keycloak library, adhering to clean architecture principles.
-- Contributed to a NestJS-based integration microservice for connecting PandaDoc and DocuSign, implementing clean architecture and domain-driven design.
-- Architected a series of utility scripts leveraging Deno and TypeScript with Windmill, streamlining backend operations and reducing API response times.
-
-### Backend Developer at xFlow Labs (06/2024 - 08/2024)
-
-- Architected and implemented a scalable database.
-- Designed and implemented scalable functionality for resource capping at both the tenant and user levels.
-- Developed and managed the end-to-end backend of an innovative platform that streamlines workflows across various tasks.
-
-### Software Developer at xFlow Labs (10/2022 - 11/2022)
-
-- Collaborated with Amazon India team to develop the backend for an innovative e-commerce adapter, facilitating seamless integration of diverse sellers onto a unified platform.
-- Implemented in TypeScript, leveraging the functional programming paradigm and Effect-TS library for enhanced efficiency and maintainability.
 
 ## 🛠️ Tech Stack
 
